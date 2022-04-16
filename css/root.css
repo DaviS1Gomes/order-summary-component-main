@@ -1,0 +1,13 @@
+:root{
+ /* Primary Colors*/
+ --pale-blue-color: hsl(225, 100%, 94%);
+ --bright-blu-color: hsl(245, 75%, 52%);
+
+  /*Neutral*/
+  
+ --very-pale-blue-color: hsl(225, 100%, 98%);
+ --Desaturated-blue-color: hsl(224, 23%, 55%);
+ --Dark-blue-color: hsl(223, 47%, 23%);
+
+
+}
